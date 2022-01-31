@@ -37,8 +37,6 @@ class Student
             ],
         ];
 
-        echo '<pre>';
-
 
 
 ////   ---------------     another array checker with specification --------------------
